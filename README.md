@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Machine Learning
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on any interesting projects
-- 📫 How to reach me justin14ctu@gmail.com
+- 📫 How to reach me justinmarx08@gmail.com
 
 <!---
 Justin-arch/Justin-arch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
